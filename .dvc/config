@@ -1,0 +1,8 @@
+[core]
+    remote = dvctrail1
+['remote "dvcstore"']
+    url = s3://ml-project-end-to-end
+['remote "dvctrail"']
+    url = s3://ml-project-end-to-end
+['remote "dvctrail1"']
+    url = s3://amzn-s3-ml-project-end-to-end
